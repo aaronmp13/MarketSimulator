@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@700&family=Work+Sans:wght@700&display=swap');
+
+
+.navbar-brand img {
+	height: 50px;
+	float: left;
+	margin-right: 7px;
+}
+
+.input-group{
+	font-family: Work Sans, sans-serif;
+	margin:20px 0px;
+	width:20;
+}
+
+.jumbotron {
+	text-align: center;
+	margin:0px 0px;
+	font-family: Work Sans, sans-serif;
+	border:0px solid #003366;
+}
+
+.jumbotron.jumbotron-fluid{
+	text-align: left;
+	margin:0px 0px;
+}
+.jumbotron.jumbotron-fluid h1{
+	margin: 10px;
+}
+.jumbotron.jumbotron-fluid h4, h3, h2{
+	margin: 10px 50px;
+
+}
+
+.nav {
+	font-family: Work Sans, sans-serif;
+}
+
+.footer {
+	text-align: center;
+	margin: 10px 2px;
+}
+
+.alert {
+  padding: 20px;
+  background-color: #f44336; /* Red */
+  color: #f44336;
+  margin-bottom: 15px;
+}
+
+h1.heading {
+	border-style:solid;
+	border-color:#287EC7;
+}
+
+h1, h2, h3, h4, h5{
+	font-family: Work Sans, sans-serif;
+}
+
+p {
+	font-family: Work Sans, sans-serif;
+	font-weight: 500;
+}
+
+.button {
+	font-family: Work Sans, sans-serif;
+	background-color: #fff4ad;
+	border: none;
+	color: black;
+	padding: 20px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+}
+
+.button1 {
+	width: 150px;
+	border-radius: 30px;
+}
